@@ -27,4 +27,10 @@ pip install -r requirements.txt
 ### 3. Lancer l'application
 ```
 python data_analyzer.py
-´´´
+```
+## 👤 Auteur
+
+**Mélanie Bovay**  
+Développeuse en formation (IDEC & École 42)  
+Canton de Vaud, Suisse  
+[Mon Profil LinkedIn](https://linkedin.com/in/mélanie-bovay-991468388)
