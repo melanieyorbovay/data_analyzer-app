@@ -22,7 +22,7 @@ Application complète d'analyse de données développée en **Python** avec inte
 
 ## Aperçu de l'application
 
-![Aperçu de l'application](screenshots/Demo App.png)
+![Aperçu de l'application](screenshots/Demo_App.png)
 
 ## Installation et Utilisation
 
