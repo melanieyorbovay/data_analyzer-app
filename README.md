@@ -28,6 +28,16 @@ pip install -r requirements.txt
 ```
 python data_analyzer.py
 ```
+## 💡 Contexte et Compétences
+
+Développé initialement comme projet d'auto-formation pour maîtriser l'écosystème Python, ce projet a servi de base à mon apprentissage accéléré.
+Il illustre ma capacité à :
+- **Intégrer des solutions complexes** : Assemblage et compréhension d'une architecture utilisant Tkinter, Pandas et Matplotlib.
+- **Utiliser les outils modernes** : Emploi de l'IA générative comme accélérateur de développement, couplé à une analyse critique du code produit.
+- **Gérer un projet complet** : De la conception de l'interface à la gestion des dépendances et la documentation.
+
+*Note : Ce projet a marqué le début de ma reconversion. Depuis, j'ai consolidé mes bases en C# et C via mes formations IDEC et École 42, où je développe désormais mon code de manière autonome.*
+
 ## 👤 Auteur
 
 **Mélanie Bovay**  
