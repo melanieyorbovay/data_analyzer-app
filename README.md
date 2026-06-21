@@ -4,11 +4,25 @@ Application complète d'analyse de données développée en **Python** avec inte
 
 ## Fonctionnalités Clés
 
-- **Importation flexibles** : Chargement de fichiers CSV avec gestion des erreurs.
+- **Importation flexible** : Chargement de fichiers CSV avec gestion des erreurs.
 - **Analyse statistique automatique** : Calcul instantané des moyennes, médianes, min/max et détection des types de données.
 - **Visualisation graphique** : Génération dynamique d'histogrammes et de boxplots intégrés directement dans l'interface.
 - **Interface Utilisateur (GUI)**: Design ergonomique développé avec **Tinker** pour une expérience utilisateur fluide.
 - **Gestion de données**: Utilisation avancée de **Pandas** pour la manipulation et le nettoyage de données.
+
+## Stack Technique
+
+| Catégorie | Technologies |
+| :--- | :--- |
+| **Langage** | Python 3.x |
+| **Interface** | Tkinter (Standard Library) |
+| **Data** | Pandas, NumPy |
+| **Visualisation** | Matplotlib |
+| **Outils** | Git, GitHub |
+
+## Aperçu de l'application
+
+![Aperçu de l'application](screenshots/Demo App.png)
 
 ## Installation et Utilisation
 
@@ -44,3 +58,5 @@ Il illustre ma capacité à :
 Développeuse en formation (IDEC & École 42)  
 Canton de Vaud, Suisse  
 [Mon Profil LinkedIn](https://linkedin.com/in/mélanie-bovay-991468388)
+
+
